@@ -15,6 +15,7 @@ JSON
 }
 
 ====================================================
+
 Log In
 To log in, send a POST request to the following URL:
 
@@ -29,6 +30,7 @@ JSON
 }
 
 ==================================================
+
 Access User Details
 To access the user details, send a GET request to the following URL:
 
