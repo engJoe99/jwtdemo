@@ -9,9 +9,9 @@ With the following JSON body:
 
 JSON
 {
-    "email": "koko@joo.com",
+    "email": "jo@test.com",
     "password": "test1",
-    "fullName": "KoKo JO"
+    "fullName": "JO Test"
 }
 
 ====================================================
@@ -25,7 +25,7 @@ With the following JSON body:
 
 JSON
 {
-    "email": "koko@joo.com",
+    "email": "jo@test.com",
     "password": "test1"
 }
 
